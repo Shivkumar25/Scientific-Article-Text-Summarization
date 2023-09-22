@@ -25,11 +25,15 @@ b) Framework - Pytorch
 In this work the SCI-TLDR dataset has been used for implementing scietific article summarization. It is an open sourced dataset provided in a CSV format. The dataset consists of 5400 TLDRS on the basis of 3200 research articles. Here only the dataset involving abstract and its summarizations are used. A total of 1992 train data samples, 619 test data sample and 620 validation data have been used. The input to the model are the abstract of the scientific research paper and the output is the summary of the abstract.
 
 ## Model Architecture
+
 The LSTM Encoder-Decoder model with attention is a popular architecture used for sequence-to-sequence tasks in natural language
 processing, such as machine translation and text summarization. The architecture is shown below.
+
 ![LSTM ENCODER-DECODER](LSTM_MODEL.PNG)
+
 The GRU Encoder-Decoder Model with attention works with the same principle as stated before. The only difference is that, instead of
 LSTMs, GRUs are used. The architecture is shown below.
+
 ![GRU ENCODER-DECODER](GRU_MODEL.PNG)
 
 ## Acknowledgements
