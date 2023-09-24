@@ -18,9 +18,11 @@ abstract provided.
 
 ## Tools
 1) Google Colaboratory (GPU)
-   
+
+
 a) Language - Python   
 b) Framework - Pytorch
+
 ## Dataset
 
 In this work the SCI-TLDR dataset has been used for implementing scietific article summarization. It is an open sourced dataset provided in a CSV format. The dataset consists of 5400 TLDRS on the basis of 3200 research articles. Here only the dataset involving abstract and its summarizations are used. A total of 1992 train data samples, 619 test data sample and 620 validation data have been used. The input to the model are the abstract of the scientific research paper and the output is the summary of the abstract.
