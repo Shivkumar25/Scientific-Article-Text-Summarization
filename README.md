@@ -18,7 +18,6 @@ abstract provided.
 
 ## Tools
 1) Google Colaboratory (GPU)
-
 a) Language - Python   
 b) Framework - Pytorch
 
