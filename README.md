@@ -18,10 +18,10 @@ abstract provided. If you would like to understand the project completely, you c
 ## Note
 If you are utilizing any contents or work from this repository, I kindly request that you provide appropriate citations to give credit to the original source. This ensures ethical use of information and acknowledges the efforts of content creators.
 
-#Citation (Utilization of code):
+# Citation (Utilization of code):
 Shivkumar S.(2023). Scientific-Article-Text-Summarization. Github, https://github.com/Shivkumar25/Scientific-Article-Text-Summarization
 
-#Citation (Utilization of contents from the post):
+# Citation (Utilization of contents from the post):
 Shivkumar S.(2023, December 17). Art of Text Summarization: A Scientific Article Analysis. Medium, https://medium.com/@s.shivakutti/art-of-text-summarization-a-scientific-article-analysis-2d5565450b7c
 
 ## Tools
