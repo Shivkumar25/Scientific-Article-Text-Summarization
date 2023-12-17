@@ -13,8 +13,16 @@ models namely, LSTM-Attention Encoder-Decoder Model and
 GRU-Attention Encoder-Decoder Model are implemented and
 compared. The LSTM-Attention Encoder-Decoder Model is performing better with a high ROGUE Score. This model is able
 to generate summaries without compromising the essence of the
-abstract provided.
+abstract provided. If you would like to understand the project completely, you can head over to this link for further information: [Blog Post](https://medium.com/@s.shivakutti/art-of-text-summarization-a-scientific-article-analysis-2d5565450b7c)
 
+## Note
+If you are utilizing any contents or work from this repository, I kindly request that you provide appropriate citations to give credit to the original source. This ensures ethical use of information and acknowledges the efforts of content creators.
+
+#Citation (Utilization of code):
+Shivkumar S.(2023). Scientific-Article-Text-Summarization. Github, https://github.com/Shivkumar25/Scientific-Article-Text-Summarization
+
+#Citation (Utilization of contents from the post):
+Shivkumar S.(2023, December 17). Art of Text Summarization: A Scientific Article Analysis. Medium, https://medium.com/@s.shivakutti/art-of-text-summarization-a-scientific-article-analysis-2d5565450b7c
 
 ## Tools
 1) Google Colaboratory (GPU)
