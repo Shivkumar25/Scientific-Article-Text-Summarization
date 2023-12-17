@@ -26,6 +26,7 @@ Shivkumar S.(2023, December 17). Art of Text Summarization: A Scientific Article
 
 ## Tools
 1) Google Colaboratory (GPU)
+   
 a) Language - Python   
 b) Framework - Pytorch
 
